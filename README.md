@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 
 <!--
 **Savri1017/Savri1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+![hello world](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1kNDdxN2t5ZndsaXUxZmg1ZHZlMWVzeXRzbDVlbHFiZTIyd3J0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/113A68I5eK95EA/giphy.gif)
